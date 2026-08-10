@@ -1,0 +1,12 @@
+{
+    "name": "dhanis/komunitas-remaja-pustaka",
+    "authors": [
+        {
+            "name": "Dhanis Fathan Gunawan",
+            "email": "fathangunawan19@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.9"
+    }
+}
